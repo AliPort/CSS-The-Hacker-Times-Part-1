@@ -2,7 +2,14 @@
 
 html {}
 body{
-    background-color: #eee;    
+    background-color: #eee; 
+    font-family: "source sans pro";   
 }
-header{}
-main{}
+header{
+    font-family: "abril fatface";
+    position: left;
+
+}
+main{
+    font-family: "Roboto slab";
+}
