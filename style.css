@@ -11,8 +11,14 @@ a {
 body{
     background-color: #eee; 
     border-color: #eee;
-    font-family: "source sans pro"; 
-      
+    font-family: "source sans pro";  
+}
+
+.newspaper-container{
+    width: 700px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px #ddd;
 }
 header {
     font-family: "abril fatface";
